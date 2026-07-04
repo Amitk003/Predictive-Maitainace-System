@@ -3,9 +3,15 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-jupyter
 xgboost
+imbalanced-learn
+joblib
+shap
+plotly
 streamlit
 fastapi
 uvicorn
-shap
+python-multipart
+openpyxl
+jupyter
+ipykernel
