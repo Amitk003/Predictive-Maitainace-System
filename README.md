@@ -287,4 +287,8 @@ pip install -r requirements.txt
 
 Predictive maintenance enables organizations to transition from reactive maintenance to proactive maintenance. By identifying potential failures before they occur, industries can reduce downtime, optimize maintenance schedules, and improve overall equipment reliability.
 
+<<<<<<< HEAD
 ---
+=======
+---
+
